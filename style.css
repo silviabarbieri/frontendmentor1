@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Doto:wght@100..900&family=Outfit:wght@100..900&family=Permanent+Marker&display=swap');
+
+
+
+body{
+    background-color:gainsboro;
+}
+.container{
+    width: 320px;
+    height: 499px;
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    margin-top: 5%;
+    margin-left: 35%;
+    border-radius: 4%;
+   
+}
+img{
+    padding: 1%;
+    margin: 2%;
+    border-radius: 4%;
+
+}
+.parrafo1{
+      font-family: "Outfit", serif;
+      font-optical-sizing: auto;
+      font-weight: 700;
+      font-style: normal;
+      font-size: 22px;
+      padding: 5px 8px 5px 8px;
+      margin: 10px;
+}
+.parrafo2{
+
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px;
+    padding: 1px 25px 5px 25px;
+}
